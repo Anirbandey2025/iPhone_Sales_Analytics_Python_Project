@@ -1,6 +1,4 @@
-# iPhone_Sales_Analytics_Python_Project
-
-iPhone Sales Analytics Project | Python Project
+# iPhone Sales Analytics Project | Python Project
 
 Objective: To build a Python analytics system to decode India e-commerce iPhone pricing and demand.
 
